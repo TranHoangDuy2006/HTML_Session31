@@ -1,0 +1,9 @@
+div
+{
+    width: auto; height: 260px; display: inline-block;
+}
+
+button
+{
+    padding: 10px; margin-left: 20px;
+}
